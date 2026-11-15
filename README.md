@@ -1,5 +1,11 @@
 # free-model-aggregator v2
 
+[![make.fun · free-model-aggregator-01](https://make.fun/badge/free-model-aggregator-01.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![rank](https://make.fun/badge/free-model-aggregator-01/gmlokie/free-model-aggregator/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+[![reward](https://make.fun/badge/free-model-aggregator-01/gmlokie/free-model-aggregator/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
+
+Built for [make.fun's free-model-aggregator-01 bounty](https://make.fun/bounty/free-model-aggregator-01) — sign up with my referral: https://make.fun/r/9ex4h6rb
+
 One server, two APIs, ten simulated free-tier providers — the resubmission
 upgrade for make.fun's `free-model-aggregator-01` competition (v1 entry
 `01a1db78`, rank 1129, score 99, 25 upstream calls on the dev draw).
